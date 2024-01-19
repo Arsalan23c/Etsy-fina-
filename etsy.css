@@ -1,0 +1,184 @@
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+nav{
+    margin-top: 15px;
+     height: 60px;
+     /* background-color: rgb(243, 246, 248); */
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+    
+}
+
+.etsy_logo{
+
+    height: 50px;
+    /* background-color: rgb(243, 246, 248); */
+    display: flex;
+    justify-content: space-around;
+    margin-left: 30px;
+
+}
+
+
+.categories{
+    margin-top: 15px;
+    margin-left: 50px;
+
+}
+
+.search_Bar{
+
+    width:530px;
+    border: 2px solid black;
+    padding: 08px;
+    border-radius: 30px;
+    padding: 10px 0px;
+    
+   
+}
+
+input{
+    background: transparent;
+    border: 0px;
+    outline: 0px;
+    width: 300;
+}
+
+#magnifying_glass{
+
+    margin-left: 310px;
+}
+
+
+.Last_2icons{
+ margin-right: 12px;
+ justify-content: space-around;
+ padding: 20px;
+
+
+}
+Ul > li{
+    display: inline-block;
+    padding: 0px 10px;
+    
+}
+
+Ul{
+    text-align: center;
+}
+ .Find{
+    font-family: inherit;
+    margin-left: 110px;
+   
+ }
+
+.Mid_sec{
+background-color: white;
+
+}
+ 
+.Circle_Sets{
+
+
+ }
+
+ .Circle{
+ width: 100px;
+ height: 100px;
+ justify-content: center;
+ display: inline-block;
+ 
+ margin-left: 80px;
+
+
+ }
+
+.Circle img {
+    height:120px;
+    width: 120px;
+    justify-content: space-around;
+   
+border-radius: 100%;
+}
+
+.Circle_para{
+  /* justify-content: space-evenly; */
+    padding-left: 15px;
+}
+
+.Circle_para5{
+
+    justify-content: space-around;
+    margin-left: 33px;
+    padding: 25px;
+}
+
+#Shop{
+
+    font-family: inherit;
+    margin-left: 430px;
+}
+
+.cardlogo{
+    width: 175px;
+    height: 280px;
+    background-color:White;
+    border-radius: 15px;
+    margin-left: 10px;
+    text-align: center;
+    display:inline-block;
+}
+
+.cardlogoimg{
+    width: 150px;
+    height: 250px;
+    margin-top: 10px;
+    border-radius:10px ;
+}
+
+.cardpara{
+    width: 175px;
+    margin-top: -2px;
+    
+}
+
+.cardlogo2{
+    width: 175px;
+    height: 280px;
+    background-color:White;
+    border-radius: 15px;
+    margin-left: 10px;
+    text-align: center;
+    display:inline-block;
+    margin-bottom: 20px;
+}
+
+.cardpara2{
+    width: 175px;
+    margin-top: -2px;
+}
+
+#FooterHeading{
+
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.Footer{
+
+    background-color: antiquewhite;
+   
+}
+
+.FooterPara{
+    font-size: 25px;
+    justify-content: space-between;
+    text-align: center;
+}
